@@ -1,0 +1,3 @@
+// Files and folders to git ignore when upload to github
+
+node_modules
